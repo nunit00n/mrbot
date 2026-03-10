@@ -32,7 +32,8 @@
       "messages": [
         "I'm a regular player",
         "Subscribe to SlIMEBOY2013!",
-        "I like to play Minecraft!"
+        "I like to play Minecraft!",
+        "im safe!"
       ]
     },
     "chat-log": true,
@@ -82,7 +83,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
